@@ -1,0 +1,201 @@
+{
+  resources: [
+    {
+      id: {
+        name: "obj_bola",
+        path: "objects/obj_bola/obj_bola.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "obj_colisor",
+        path: "objects/obj_colisor/obj_colisor.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "obj_raquete",
+        path: "objects/obj_raquete/obj_raquete.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "obj_raquete2",
+        path: "objects/obj_raquete2/obj_raquete2.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "Room1",
+        path: "rooms/Room1/Room1.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "snd_boing",
+        path: "sounds/snd_boing/snd_boing.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Sprite4",
+        path: "sprites/Sprite4/Sprite4.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "Sprite6",
+        path: "sprites/Sprite6/Sprite6.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "spr_background",
+        path: "sprites/spr_background/spr_background.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "spr_bola",
+        path: "sprites/spr_bola/spr_bola.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "spr_colisor",
+        path: "sprites/spr_colisor/spr_colisor.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "spr_fundo",
+        path: "sprites/spr_fundo/spr_fundo.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "spr_olhos",
+        path: "sprites/spr_olhos/spr_olhos.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "spr_raquete",
+        path: "sprites/spr_raquete/spr_raquete.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "spr_rosto",
+        path: "sprites/spr_rosto/spr_rosto.yy",
+      },
+      order: 6,
+    },
+  ],
+  Options: [
+    {
+      name: "Main",
+      path: "options/main/options_main.yy",
+    },
+    {
+      name: "operagx",
+      path: "options/operagx/options_operagx.yy",
+    },
+    {
+      name: "Windows",
+      path: "options/windows/options_windows.yy",
+    },
+  ],
+  isDnDProject: false,
+  isEcma: false,
+  tutorialPath: "",
+  configs: {
+    name: "Default",
+    children: [],
+  },
+  RoomOrderNodes: [
+    {
+      roomId: {
+        name: "Room1",
+        path: "rooms/Room1/Room1.yy",
+      },
+    },
+  ],
+  Folders: [
+    {
+      folderPath: "folders/Objects.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Objects",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Rooms.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Rooms",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sounds.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "Sounds",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sprites.yy",
+      order: 5,
+      resourceVersion: "",
+      name: "Sprites",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+  ],
+  AudioGroups: [
+    {
+      targets: -1,
+      resourceVersion: "",
+      name: "audiogroup_default",
+      resourceType: "GMAudioGroup",
+    },
+  ],
+  TextureGroups: [
+    {
+      isScaled: true,
+      autocrop: true,
+      border: 2,
+      mipsToGenerate: 0,
+      groupParent: null,
+      targets: -1,
+      resourceVersion: "",
+      name: "Default",
+      resourceType: "GMTextureGroup",
+    },
+  ],
+  IncludedFiles: [],
+  MetaData: {
+    IDEVersion: "",
+  },
+  resourceVersion: "",
+  name: "Pong",
+  tags: [],
+  resourceType: "GMProject",
+}

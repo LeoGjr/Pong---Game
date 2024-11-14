@@ -1,0 +1,251 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[26-08-2024 12:48:50] Initialized GameMaker Project: Pong.yyp
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/animcurves
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/extensions
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/fonts
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/notes
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/objects
+[26-08-2024 12:48:50] Checking obj_raquete2
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/objects/obj_raquete2
+[26-08-2024 12:48:50] Checking obj_raquete
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/objects/obj_raquete
+[26-08-2024 12:48:50] Checking obj_colisor
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/objects/obj_colisor
+[26-08-2024 12:48:50] Checking obj_bola
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/objects/obj_bola
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/objects/obj_bola
+[26-08-2024 12:48:50] Checking Step_0.gml
+[26-08-2024 12:48:50] Checking obj_bola.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/objects/obj_bola/obj_bola.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/objects/obj_bola/obj_bola.yy
+[26-08-2024 12:48:50] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Pong/objects/obj_bola/obj_bola.yy"
+[26-08-2024 12:48:50] Found Object: obj_bola
+[26-08-2024 12:48:50] Checking Create_0.gml
+[26-08-2024 12:48:50] Checking Collision_obj_raquete2.gml
+[26-08-2024 12:48:50] Checking Collision_obj_raquete.gml
+[26-08-2024 12:48:50] Checking Collision_obj_colisor.gml
+[26-08-2024 12:48:50] Checking Alarm_0.gml
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/objects/obj_colisor
+[26-08-2024 12:48:50] Checking obj_colisor.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/objects/obj_colisor/obj_colisor.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/objects/obj_colisor/obj_colisor.yy
+[26-08-2024 12:48:50] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Pong/objects/obj_colisor/obj_colisor.yy"
+[26-08-2024 12:48:50] Found Object: obj_colisor
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/objects/obj_raquete
+[26-08-2024 12:48:50] Checking obj_raquete.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/objects/obj_raquete/obj_raquete.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/objects/obj_raquete/obj_raquete.yy
+[26-08-2024 12:48:50] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Pong/objects/obj_raquete/obj_raquete.yy"
+[26-08-2024 12:48:50] Found Object: obj_raquete
+[26-08-2024 12:48:50] Checking Keyboard_87.gml
+[26-08-2024 12:48:50] Checking Keyboard_83.gml
+[26-08-2024 12:48:50] Checking Collision_obj_colisor.gml
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/objects/obj_raquete2
+[26-08-2024 12:48:50] Checking Step_0.gml
+[26-08-2024 12:48:50] Checking obj_raquete2.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/objects/obj_raquete2/obj_raquete2.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/objects/obj_raquete2/obj_raquete2.yy
+[26-08-2024 12:48:50] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Pong/objects/obj_raquete2/obj_raquete2.yy"
+[26-08-2024 12:48:50] Found Object: obj_raquete2
+[26-08-2024 12:48:50] Checking Keyboard_40.gml
+[26-08-2024 12:48:50] Checking Keyboard_38.gml
+[26-08-2024 12:48:50] Checking Create_0.gml
+[26-08-2024 12:48:50] Checking Collision_obj_colisor.gml
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/options
+[26-08-2024 12:48:50] Checking windows
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/options/windows
+[26-08-2024 12:48:50] Checking operagx
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/options/operagx
+[26-08-2024 12:48:50] Checking main
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/options/main
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/options/main
+[26-08-2024 12:48:50] Checking options_main.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/options/main/options_main.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/options/main/options_main.yy
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/options/operagx
+[26-08-2024 12:48:50] Checking options_operagx.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/options/operagx/options_operagx.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/options/operagx/options_operagx.yy
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/options/windows
+[26-08-2024 12:48:50] Checking options_windows.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/options/windows/options_windows.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/options/windows/options_windows.yy
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/paths
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/rooms
+[26-08-2024 12:48:50] Checking Room1
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/rooms/Room1
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/rooms/Room1
+[26-08-2024 12:48:50] Checking Room1.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/rooms/Room1/Room1.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/rooms/Room1/Room1.yy
+[26-08-2024 12:48:50] Par: "folders/Rooms" at dir: "D:/PROJETOSGameMaker2/Pong/rooms/Room1/Room1.yy"
+[26-08-2024 12:48:50] Found Room: Room1
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/scripts
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sequences
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/shaders
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sounds
+[26-08-2024 12:48:50] Checking snd_boing
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sounds/snd_boing
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sounds/snd_boing
+[26-08-2024 12:48:50] Checking snd_boing.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sounds/snd_boing/snd_boing.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sounds/snd_boing/snd_boing.yy
+[26-08-2024 12:48:50] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Pong/sounds/snd_boing/snd_boing.yy"
+[26-08-2024 12:48:50] Found Sound: snd_boing
+[26-08-2024 12:48:50] Checking snd_boing.ogg
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites
+[26-08-2024 12:48:50] Checking spr_rosto
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto
+[26-08-2024 12:48:50] Checking spr_raquete
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete
+[26-08-2024 12:48:50] Checking spr_olhos
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos
+[26-08-2024 12:48:50] Checking spr_fundo
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo
+[26-08-2024 12:48:50] Checking spr_colisor
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor
+[26-08-2024 12:48:50] Checking spr_bola
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_bola
+[26-08-2024 12:48:50] Checking spr_background
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_background
+[26-08-2024 12:48:50] Checking Sprite6
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite6
+[26-08-2024 12:48:50] Checking Sprite4
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite4
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite4
+[26-08-2024 12:48:50] Checking Sprite4.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/Sprite4.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/Sprite4.yy
+[26-08-2024 12:48:50] ROOT found, not added.
+[26-08-2024 12:48:50] Par: "folders" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/Sprite4.yy"
+[26-08-2024 12:48:50] Found Sprite: Sprite4
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/layers
+[26-08-2024 12:48:50] Checking a10e084a-54cf-457e-9338-26131104d4da.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/layers
+[26-08-2024 12:48:50] Checking a10e084a-54cf-457e-9338-26131104d4da
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/layers/a10e084a-54cf-457e-9338-26131104d4da
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite4/layers/a10e084a-54cf-457e-9338-26131104d4da
+[26-08-2024 12:48:50] Checking bb4d3c75-7693-473a-8c32-b3dfbd54a0c1.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite6
+[26-08-2024 12:48:50] Checking Sprite6.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/Sprite6.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/Sprite6.yy
+[26-08-2024 12:48:50] ROOT found, not added.
+[26-08-2024 12:48:50] Par: "folders" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/Sprite6.yy"
+[26-08-2024 12:48:50] Found Sprite: Sprite6
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/layers
+[26-08-2024 12:48:50] Checking 5e3603f7-e5b2-4673-ba1c-5859bdfecf94.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/layers
+[26-08-2024 12:48:50] Checking 5e3603f7-e5b2-4673-ba1c-5859bdfecf94
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/layers/5e3603f7-e5b2-4673-ba1c-5859bdfecf94
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/Sprite6/layers/5e3603f7-e5b2-4673-ba1c-5859bdfecf94
+[26-08-2024 12:48:50] Checking e952a388-e96b-4741-931f-f12ba253c02f.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_background
+[26-08-2024 12:48:50] Checking spr_background.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_background/spr_background.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_background/spr_background.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_background/spr_background.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_background
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_background/layers
+[26-08-2024 12:48:50] Checking 54bdbfac-2ae1-416c-b0a9-f743546413d4.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_background/layers
+[26-08-2024 12:48:50] Checking 54bdbfac-2ae1-416c-b0a9-f743546413d4
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_background/layers/54bdbfac-2ae1-416c-b0a9-f743546413d4
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_background/layers/54bdbfac-2ae1-416c-b0a9-f743546413d4
+[26-08-2024 12:48:50] Checking 5ac7afb6-2fbb-4751-8bc7-1cb8eb7f64a8.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_bola
+[26-08-2024 12:48:50] Checking spr_bola.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/spr_bola.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/spr_bola.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/spr_bola.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_bola
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/layers
+[26-08-2024 12:48:50] Checking c9a42d19-5f4a-43ef-bc2f-109042407442.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/layers
+[26-08-2024 12:48:50] Checking c9a42d19-5f4a-43ef-bc2f-109042407442
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/layers/c9a42d19-5f4a-43ef-bc2f-109042407442
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_bola/layers/c9a42d19-5f4a-43ef-bc2f-109042407442
+[26-08-2024 12:48:50] Checking 73e73faf-9721-4ef0-889a-50c10261ebc8.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor
+[26-08-2024 12:48:50] Checking spr_colisor.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/spr_colisor.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/spr_colisor.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/spr_colisor.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_colisor
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/layers
+[26-08-2024 12:48:50] Checking 28e55aea-923b-4c14-a689-cac1c225012a.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/layers
+[26-08-2024 12:48:50] Checking 28e55aea-923b-4c14-a689-cac1c225012a
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/layers/28e55aea-923b-4c14-a689-cac1c225012a
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_colisor/layers/28e55aea-923b-4c14-a689-cac1c225012a
+[26-08-2024 12:48:50] Checking c6df0529-6acd-41e4-98cd-69625df5b36e.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo
+[26-08-2024 12:48:50] Checking spr_fundo.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/spr_fundo.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/spr_fundo.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/spr_fundo.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_fundo
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/layers
+[26-08-2024 12:48:50] Checking 8854b6ee-1eb1-4030-832a-328b6224fbc8.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/layers
+[26-08-2024 12:48:50] Checking 8854b6ee-1eb1-4030-832a-328b6224fbc8
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/layers/8854b6ee-1eb1-4030-832a-328b6224fbc8
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_fundo/layers/8854b6ee-1eb1-4030-832a-328b6224fbc8
+[26-08-2024 12:48:50] Checking 221ae81d-8cf5-45e1-a885-a71d188fb307.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos
+[26-08-2024 12:48:50] Checking spr_olhos.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/spr_olhos.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/spr_olhos.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/spr_olhos.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_olhos
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/layers
+[26-08-2024 12:48:50] Checking e84b3062-23cd-43fe-9214-571b05556545.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/layers
+[26-08-2024 12:48:50] Checking e84b3062-23cd-43fe-9214-571b05556545
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/layers/e84b3062-23cd-43fe-9214-571b05556545
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_olhos/layers/e84b3062-23cd-43fe-9214-571b05556545
+[26-08-2024 12:48:50] Checking ca169235-67fc-4cf9-ac86-5931e32a9464.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete
+[26-08-2024 12:48:50] Checking spr_raquete.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/spr_raquete.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/spr_raquete.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/spr_raquete.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_raquete
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/layers
+[26-08-2024 12:48:50] Checking ffad51a3-ae77-4b15-a510-8bc2040ca2a6.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/layers
+[26-08-2024 12:48:50] Checking ffad51a3-ae77-4b15-a510-8bc2040ca2a6
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/layers/ffad51a3-ae77-4b15-a510-8bc2040ca2a6
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_raquete/layers/ffad51a3-ae77-4b15-a510-8bc2040ca2a6
+[26-08-2024 12:48:50] Checking c5e0dd1e-bd1c-4d5f-88bb-e94606bf5e77.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto
+[26-08-2024 12:48:50] Checking spr_rosto.yy
+[26-08-2024 12:48:50] Parsing D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/spr_rosto.yy
+[26-08-2024 12:48:50] Reading D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/spr_rosto.yy
+[26-08-2024 12:48:50] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/spr_rosto.yy"
+[26-08-2024 12:48:50] Found Sprite: spr_rosto
+[26-08-2024 12:48:50] Checking layers
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/layers
+[26-08-2024 12:48:50] Checking 5922fa94-bb70-42a9-86ca-3cac36f30795.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/layers
+[26-08-2024 12:48:50] Checking 5922fa94-bb70-42a9-86ca-3cac36f30795
+[26-08-2024 12:48:50] Directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/layers/5922fa94-bb70-42a9-86ca-3cac36f30795
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/sprites/spr_rosto/layers/5922fa94-bb70-42a9-86ca-3cac36f30795
+[26-08-2024 12:48:50] Checking 0ed53767-b9e9-4bbd-bf51-2e9f5513b770.png
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/tilesets
+[26-08-2024 12:48:50] Current parent directory: D:/PROJETOSGameMaker2/Pong/timelines
+[26-08-2024 12:48:50] Moving files to trash...
+[26-08-2024 12:48:50] Files yeeted successfully!
+[26-08-2024 12:48:50] Generating YYP...
+[26-08-2024 12:48:50] Pong.yyp created successfully!
